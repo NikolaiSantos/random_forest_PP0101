@@ -1,0 +1,27 @@
+# Archivos específicos
+Dataset_DISTRITAL.xlsx
+.python-version
+
+# Directorios
+Paper_env/
+.ipynb_checkpoints/
+__pycache__/          # Añadir: caché de Python
+*.pyc                # Añadir: archivos compilados de Python
+
+# Tipos de archivos
+#*.xlsx
+*.png
+*.pkl
+*.sh
+*.pdf
+*.docx
+
+# Archivos de entorno y logs (recomendados)
+.env
+*.log
+*.tmp
+
+# Archivos de sistema (recomendados)
+.DS_Store            # macOS
+Thumbs.db            # Windows
+desktop.ini          # Windows
