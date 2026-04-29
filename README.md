@@ -62,7 +62,7 @@ El código reproduce los hallazgos presentados en el manuscrito:
 Si utiliza este código o dataset en su investigación, por favor cite el manuscrito asociado:
 
 > **Referencia sugerida:**
-> Autor(es). (2026). *Ciclos presupuestarios políticos en infraestructuras deportivas: Evidencias de los gobiernos municipales peruanos, 2013–2024*. [Manuscrito en preparación/institución].
+> Santos Alvarado. (2026). *Ciclos presupuestarios políticos en infraestructuras deportivas: Evidencias de los gobiernos municipales peruanos, 2013–2024*. [Manuscrito en preparación/institución].
 
 ## 📄 Licencia
 
