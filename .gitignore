@@ -4,6 +4,7 @@ Dataset_DISTRITAL.xlsx
 
 # Directorios
 Paper_env/
+Docs/
 .ipynb_checkpoints/
 __pycache__/          # Añadir: caché de Python
 *.pyc                # Añadir: archivos compilados de Python
