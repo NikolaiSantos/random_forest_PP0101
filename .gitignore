@@ -26,3 +26,10 @@ __pycache__/          # Añadir: caché de Python
 .DS_Store            # macOS
 Thumbs.db            # Windows
 desktop.ini          # Windows
+
+# Archivos de bloqueo de Office/LibreOffice
+*.docx#
+*.xlsx#
+*.pptx#
+.~lock.*
+~$*
