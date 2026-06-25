@@ -10,7 +10,7 @@ __pycache__/          # Añadir: caché de Python
 *.pyc                # Añadir: archivos compilados de Python
 
 # Tipos de archivos
-#*.xlsx
+*.xlsx
 *.png
 *.pkl
 *.sh
